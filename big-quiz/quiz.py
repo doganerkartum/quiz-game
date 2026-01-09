@@ -1,9 +1,8 @@
 # quiz.py — Pygame Zero (pgzrun)
 # Run: pgzrun quiz.py  (or: python -X utf8 -m pgzero quiz.py)
-#
 # NOTE for IDEs:
 # Pygame Zero injects globals like `screen` and `clock` at runtime via `pgzrun`.
-# Static analyzers may show 'unresolved reference' warnings for them — this is normal.
+# Static analyzers may show 'unresolved reference' warnings for them — this is normal..
 
 import pgzrun
 import pygame
